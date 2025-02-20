@@ -2,18 +2,18 @@
 
 A **lightweight** Neovim plugin for running shell commands (`build` and `run`) inside a temporary buffer. Perfect for **quick builds and testing** without leaving Neovim!
 
-![Running :Build](./github/build.png)
+![Running :Build](./.github/build.png)
 
 ---
 
 ## ✨ Features
 
-✅ **Single `:Build` command** with subcommands (`build`, `run`, `setbuild`, `setrun`)
-✅ Open a **bottom-right split** to execute shell commands
-✅ Display **real-time stdout and stderr** output
-✅ **Readonly buffer** with an exit code summary
-✅ **Dynamically update build and run commands** without restarting Neovim
-✅ Simple and **lightweight**, no dependencies!
+- ✅ **Single `:Build` command** with subcommands (`build`, `run`, `setbuild`, `setrun`)
+- ✅ Open a **bottom-right split** to execute shell commands
+- ✅ Display **real-time stdout and stderr** output
+- ✅ **Readonly buffer** with an exit code summary
+- ✅ **Dynamically update build and run commands** without restarting Neovim
+- ✅ Simple and **lightweight**, no dependencies!
 
 ---
 
